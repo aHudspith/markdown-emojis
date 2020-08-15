@@ -1,5 +1,7 @@
 # Markdown Emojis
 
+---
+
 ## Popular
 
 |                                 |                                     |                                     |
@@ -15,11 +17,19 @@
 | :hammer: `:hammer:`             | :school_satchel: `:school_satchel:` | :exclamation: `:exclamation:`       |
 | :question: `:question:`         | :x: `:x:`                           | :interrobang: `:interrobang:`       |
 
+---
+
 ## Faces
+
+---
 
 ## Hands
 
+---
+
 ## People
+
+---
 
 ## Symbols
 
